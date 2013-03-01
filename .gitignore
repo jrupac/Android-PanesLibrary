@@ -4,4 +4,7 @@
 *~
 *.class
 */bin/*
-*/bin/*
+*/gen/*
+example/
+library/gen/
+*.iml
